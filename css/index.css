@@ -807,7 +807,10 @@ a {
   width: 70%;
   height: 100%;
   background-color: #ffd46e;
-  border-radius: 49px; }
+  border-radius: 49px;
+  -webkit-transition: all 0.3s;
+  -o-transition: all 0.3s;
+  transition: all 0.3s; }
 
 .progress-endpoints {
   display: -webkit-box;
