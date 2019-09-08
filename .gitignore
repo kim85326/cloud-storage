@@ -1,0 +1,6 @@
+/node_modules
+/.idea
+/public
+.publish
+npm-debug.log
+package-lock.json
